@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @85-Industries
+- 👋 Hi, I’m @Rosana
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...any project
