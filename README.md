@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rosana
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...any project
+- 🌱 I’m currently learning ...java, Python
+- 💞️ I’m looking to collaborate on ...any relevant project
 - 📫 How to reach me ... you can't i guess :)
 
 <!---
