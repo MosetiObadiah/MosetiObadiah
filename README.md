@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mosetioba01@gmail.com**
 
-- ⚡ Fun fact **I think programming is a way of life😊**
+**I think programming is a way of life😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
