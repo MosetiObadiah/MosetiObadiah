@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rosana Obadiah</h1>
+<h1 align="center">Hi, I'm Rosana Obadiah</h1>
 <h3 align="center">Android Developer and Backend Engineer</h3>
 
 
-- 🔭 I’m currently working on [Meal Tracker](https://github.com/MosetiObadiah/MealTracker)
+- I’m currently working on [Meal Tracker](https://github.com/MosetiObadiah/MealTracker)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform** and **C**
+- I’m currently learning **Kotlin Multiplatform** and **C**
 
-- 👨‍💻 Some of my projects are available at [https://mosetiobadiah.github.io/PortFolio/](https://mosetiobadiah.github.io/PortFolio/)
+- Ask me about **Java**, **Jetpack Compose**
 
-- 💬 Ask me about **Java**, **Jetpack Compose**
-
-- 📫 How to reach me **mosetioba01@gmail.com**
+- How to reach me **mosetioba01@gmail.com**
 
 **programming is a way of life**
 
